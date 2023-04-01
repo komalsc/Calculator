@@ -1,0 +1,53 @@
+.calc{
+    width: 320px;
+    margin: 100px auto;
+    background-color: black;
+    color: black;
+  }
+  #answer{
+  background-color: #000000;
+  border:3px solid rgb(0, 0, 0);
+  color: white;
+  padding:10px;
+  font-size: 45px;
+  width: 295px;
+  height:45px;
+  text-align: right;
+  }
+  
+  .button{
+    background: white;
+    height:80px;
+    width: 80px;
+    color: rgb(0, 0, 0);
+    font: size 30px;
+    border: white;
+  }
+  .button1{
+  width: 320px;
+  font-size: large;
+  }
+  
+  .button2{
+    background: white;
+    height:80px;
+    width: 80px;
+   
+    font: size 30px;
+    border: white;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
